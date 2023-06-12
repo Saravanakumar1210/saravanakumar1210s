@@ -1,6 +1,6 @@
 <h1 align="center">Hey hii, I'm Narmadha</h1>
 <h3 align="center">Dedicated student !!</h3>
-<img align="right" alt="coding" width="400" src="[https://github.com/Saravanakumarsk1210/Saravanakumarsk1210/blob/main/github%20profile%20pic.gif](https://github.com/Saravanakumar1210/saravanakumar1210s/blob/main/narmadha%20gif.gif)">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/564x/63/d9/6d/63d96d32bdd381d359f90438ad9bb722.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narmadha04&label=Profile%20views&color=0e75b6&style=flat" alt="narmadha04" /> </p>
 
